@@ -1,0 +1,3 @@
+lethe 150 20 lethe.gif 999
+hades 600 66 hades.gif 16666
+abaddon 3333 244 abaddon.gif 66666

@@ -1,0 +1,15 @@
+slime  20  5   slime1.gif 40  
+ghost  13  8  ghost.gif 37  
+ent  30   4   ent.gif  45  
+skeleton 15 6 skeleton1.gif 38
+elemental  23  4  elemental.gif  41  
+mimic 150 20 mimic.gif 800
+grim 80 38 grim.gif 760
+skeleton 110 27 skeleton2.gif 600
+phantom 99 33 phantom.gif 730
+skull-hound  105  30  skull-hound.gif  640
+curse 999 99 curse.gif 9999
+demon 1500 73 demon.gif 13333
+succubus 1274 83 succubus.gif 10696
+heretic 666 150 heretic.gif 12222
+fallen_angel 1333 77 angel.gif 13333
